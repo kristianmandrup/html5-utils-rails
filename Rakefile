@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "html5-utils-rails"
   gem.homepage = "http://github.com/kristianmandrup/html5-utils-rails"
   gem.license = "MIT"
-  gem.summary = %Q{A package of gems containing polyfills for HTML 5 and CSS 3 functionality missing in older browsers}
+  gem.summary = %Q{Package of gems containing polyfills for HTML 5 and CSS 3 functionality}
   gem.description = %Q{Time to use HTML5 and CSS3 now!!!}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]

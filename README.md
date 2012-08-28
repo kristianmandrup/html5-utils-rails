@@ -4,9 +4,19 @@ A package of gems containing polyfills for HTML 5 and CSS 3 functionality missin
 
 Time to use HTML5 and CSS3 now!!!
 
-Thanks to all the Javascript ninja, sharks, zen masters etc. who made this possible!!!
+Thanks to all the Javascript and CSS "ninjas", "sharks", "zen masters" etc. who made this possible!!!
 
 Cheers to all :)
+
+## Gems included
+
+* [pie-rails](https://github.com/kristianmandrup/pie-rails) (PIE for rails)
+* [flexlayout-rails](https://github.com/kristianmandrup/flexlayout-rails) (CSS3 layout polyfills)
+* [html5forms-rails](https://github.com/kristianmandrup/html5forms-rails) (HTML5 form polyfills)
+* [html5-now-rails](https://github.com/kristianmandrup/html5-now-rails) (various HTML5 polyfills)
+* [modernizr-rails](https://github.com/kristianmandrup/modernizr-rails)
+
+See each individual github repo README for usage/config instructions etc.
 
 ## Community support
 
