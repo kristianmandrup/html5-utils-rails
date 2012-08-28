@@ -8,6 +8,16 @@ Thanks to all the Javascript ninja, sharks, zen masters etc. who made this possi
 
 Cheers to all :)
 
+## Community support
+
+Please let me know if any of the gem packages have errors, need updates or you know of essential polyfills that are missing for better HTML5 support.
+
+I recommend you to try out the packages individually, since most often you wont need all the packages in a given project. 
+
+## Dev vs Production
+
+This package is mainly meant as a quick way to get started (in dev/test mode), but should (likely) not be used in production. Keep your gem footprint down!
+
 ## Contributing to html5-utils-rails
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
