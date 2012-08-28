@@ -25,13 +25,14 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "html5-utils-rails.gemspec",
     "lib/html5-utils-rails.rb"
   ]
   s.homepage = "http://github.com/kristianmandrup/html5-utils-rails"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.24"
-  s.summary = "A package of gems containing polyfills for HTML 5 and CSS 3 functionality missing in older browsers"
+  s.summary = "Package of gems containing polyfills for HTML 5 and CSS 3 functionality"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
